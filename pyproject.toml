@@ -1,0 +1,5 @@
+[project]
+name = "ai-surface"
+version = "0.1.0"
+description = "Find and govern AI attack surfaces in application code, at PR time and inside your AI coding tool (MCP server, Claude Code hook). Free, OSS, runs offline."
+requires-python = ">=3.10"
