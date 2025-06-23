@@ -5,3 +5,4 @@ description = "Find and govern AI attack surfaces in application code, at PR tim
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # clarify the control flow
+# keep defaults in sync with the manifest
